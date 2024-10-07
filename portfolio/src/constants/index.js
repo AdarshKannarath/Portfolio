@@ -38,7 +38,7 @@ export const PROJECTS = [
     name: "Airbnb Clone",
     description: "Booking Website",
     image: project3,
-    link: "https://github.com/AdarshKannarath/AirBnB-clone",
+    link: "https://github.com/AdarshKannarath/AirBnB-clone/tree/master",
   },
   {
     name: "Password Generator",
